@@ -1,9 +1,11 @@
 # site properties and page defaults
 title: sweet-research-group
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+subtitle: Smart Wearable Electronics and hEalth daTa
+description: Wearables and AI to provide translational digital health solutions to monitor and improve health
 header: images/background.png
 footer: images/background.png
+header-dark: false
+footer-dark: false
 proofer: false
 
 # site social media and other links
