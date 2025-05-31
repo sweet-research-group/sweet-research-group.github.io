@@ -1,9 +1,9 @@
 ---
 ---
 
-# sweet-research-group's Website
+# Wearables and AI to provide translational digital health solutions to monitor and improve health
 
-An engaging 1-3 sentence description of your lab.
+SWEET Research Group focuses on designing smart wearable electronics and sensing systems to improve human mobility, developing predictive AI for Longitudinal remote patient monitoring and Human health data modeling and analysis
 
 {% include section.html %}
 
