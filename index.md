@@ -1,13 +1,13 @@
 ---
 ---
 
-# Wearables and AI to provide translational digital health solutions to monitor and improve health
+# Wearables and AI to provide translational digital health solutions
 
-SWEET Research Group focuses on designing smart wearable electronics and sensing systems to improve human mobility, developing predictive AI for Longitudinal remote patient monitoring and Human health data modeling and analysis
+SWEET Research Group focuses on designing smart wearable electronics and sensing systems to improve human mobility, developing predictive AI for longitudinal remote patient monitoring and Human health data modeling and analysis
 
 {% include section.html %}
 
-## Highlights
+## About Us
 
 {% capture text %}
 
@@ -57,7 +57,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %}
 
-{% capture text %}
+<!-- {% capture text %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
@@ -78,4 +78,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   link="team"
   title="Our Team"
   text=text
-%}
+%} -->
