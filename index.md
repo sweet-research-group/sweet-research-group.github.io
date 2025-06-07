@@ -32,7 +32,7 @@ Our research covers the full spectrum of health data to deliver digital health s
   text=text
 %}
 
-{% capture text %}
+<!-- {% capture text %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
@@ -55,7 +55,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   flip=true
   style="bare"
   text=text
-%}
+%} -->
 
 {% capture text %}
 
