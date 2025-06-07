@@ -11,12 +11,12 @@ SWEET Research Group is dedicated to advancing human health through interdiscipl
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research covers the full spectrum of health data to deliver digital health solutions: data acquiring through wearable electronics and multimodal sensor system design, data processing through signal processing and multimodal data analysis, data modeling through customized machine learning frameworks, and end user engagement during development.
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See our projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -57,14 +57,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %}
 
-<!-- {% capture text %}
+{% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our cross-disciplinary research group is built by exceptional undergraduate and graduate students from Lehigh University—majoring in engineering and health sciences—as well as physical therapists from Good Shepherd Rehabilitation Hospital in the Lehigh Valley.
 
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="Meet our group"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -76,6 +76,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="Our Group"
   text=text
-%} -->
+%}
