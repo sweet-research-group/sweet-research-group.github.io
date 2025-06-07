@@ -7,27 +7,25 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+SWEET Research Group is with College of Health at Lehigh University in Bethlehem, PA. We always seek motivated undergraduate and graduate students to learn and conduct research with us, collaborations for research and fun projects. Reach out to Dr. Rui Hua (ruh725@lehigh.edu) for research opportunities, collaborations, or any inquires. 
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="ruh725@lehigh.edu"
+  link="ruh725@lehigh.edu"
 %}
-{%
+<!-- {%
   include button.html
   type="phone"
   text="(555) 867-5309"
   link="+1-555-867-5309"
-%}
+%} -->
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://maps.app.goo.gl/AERaHcdoJowJMH5r8"
 %}
 
 {% include section.html %}
@@ -36,8 +34,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/Lehigh.jpeg"
+  caption="Lehigh University"
 %}
 
 {% endcapture %}
@@ -46,8 +44,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/HST.jpg"
+  caption="Health, Science & Technology (HST) Building"
 %}
 
 {% endcapture %}
