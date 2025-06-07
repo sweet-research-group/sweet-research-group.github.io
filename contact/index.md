@@ -50,7 +50,7 @@ SWEET Research Group is with College of Health at Lehigh University in Bethlehem
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
+<!-- {% include cols.html col1=col1 col2=col2 %}
 
 {% include section.html dark=true %}
 
@@ -72,4 +72,4 @@ consectetur adipiscing elit
 sed do eiusmod tempor
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+{% include cols.html col1=col1 col2=col2 col3=col3 %} -->
