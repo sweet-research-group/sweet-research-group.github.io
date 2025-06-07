@@ -11,7 +11,7 @@ SWEET Research Group is dedicated to advancing human health through interdiscipl
 
 {% capture text %}
 
-Our research covers the full spectrum of health data to deliver digital health solutions: data acquiring through wearable electronics and multimodal sensor system design, data processing through signal processing and multimodal data analysis, data modeling through customized machine learning frameworks, and end user engagement during development.
+Our research spans the full spectrum of health data to deliver digital health solutions: data acquisition with wearable electronics and sensor system design, data interpretation through signal processing and multimodal analysis, data modeling via customized machine learning algorithms and frameworks, as well as engaging end users throughout the development process.
 
 {%
   include button.html

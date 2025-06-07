@@ -44,7 +44,7 @@ SWEET Research Group is with College of Health at Lehigh University in Bethlehem
 
 {%
   include figure.html
-  image="images/HST.jpg"
+  image="images/HST2.jpg"
   caption="Health, Science & Technology (HST) Building"
 %}
 
