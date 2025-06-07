@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Our cross-disciplinary research group is built by exceptional undergraduate and graduate students from Lehigh University—majoring in engineering and health sciences—as well as physical therapists from Good Shepherd Rehabilitation Hospital in the Lehigh Valley.
+Our cross-disciplinary research group consists of exceptional undergraduate and graduate students from Lehigh University—majoring in engineering and health—as well as physical therapists from Good Shepherd Rehabilitation Hospital in the Lehigh Valley.
 
 {%
   include button.html
