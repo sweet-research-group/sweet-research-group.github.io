@@ -9,7 +9,7 @@ nav:
 
 {% include section.html %}
 
-## Current Research Themes
+## Research Themes
 
 {% capture text %}
 
@@ -37,23 +37,22 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 %}
 
 
-<!-- # {% include icon.html icon="fa-solid fa-wrench" %}Projects -->
+<!-- # {% include icon.html icon="fa-solid fa-wrench" %}Projects --> 
 
-<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. -->
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.  -->
 
-<!-- {% include tags.html tags="publication, resource, website" %}
+<!-- {% include tags.html tags="publication, resource, website" %} -->
 
-{% include search-info.html %}
+<!-- {% include search-info.html %} -->
+
+<!-- {% include section.html %} -->
+
+<!-- ## Featured -->
+
+<!-- {% include list.html component="card" data="projects" filter="group == 'featured'" %} -->
 
 {% include section.html %}
 
-## Featured
+<!-- ## Past -->
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
-
-{% include section.html %}
-
-## More
-
-{% include list.html component="card" data="projects" filter="!group" style="small" %} -->
+<!-- {% include list.html component="card" data="projects" filter="!group" style="small" %} -->
