@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
 SWEET Research Group is with College of Health at Lehigh University in Bethlehem, PA. We always seek motivated undergraduate and graduate students to learn and conduct research with us, as well as collaborations for research and fun projects. 
--> Reach out to Dr. Rui Hua (ruh725@lehigh.edu) for research opportunities, collaborations, or any inquires. 
+-> **Reach out to Dr. Rui Hua (ruh725@lehigh.edu) for research opportunities, collaborations, or any inquires**. 
 
 {%
   include button.html
