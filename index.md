@@ -16,7 +16,7 @@ Our research spans the full spectrum of health data to deliver digital health so
 {%
   include button.html
   link="research"
-  text="See our projects"
+  text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
