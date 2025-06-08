@@ -7,6 +7,8 @@ nav:
 
 # Research
 
+{% include section.html %}
+
 ## Current Research Themes
 
 {% capture text %}
