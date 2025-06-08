@@ -7,7 +7,7 @@ nav:
 
 # Our Publications
 
-<!-- # {% include icon.html icon="fa-solid fa-microscope" %} -->
+# {% include icon.html icon="fa-solid fa-microscope" %}Our Publications
 
 <!-- Our work has been published on Science Advances, . -->
 

@@ -5,7 +5,7 @@ nav:
   tooltip: Our research projects
 ---
 
-# Research
+# {% include icon.html icon="fa-solid fa-wrench" %}Research
 
 {% include section.html %}
 
