@@ -5,6 +5,8 @@ nav:
   tooltip: Our research projects
 ---
 
+# Research
+
 ## Current Research Themes
 
 {% capture text %}
