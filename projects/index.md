@@ -51,7 +51,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <!-- {% include list.html component="card" data="projects" filter="group == 'featured'" %} -->
 
-{% include section.html %}
+<!-- {% include section.html %} -->
 
 <!-- ## Past -->
 
