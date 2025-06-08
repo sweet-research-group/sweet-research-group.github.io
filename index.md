@@ -11,7 +11,7 @@
 
 {% capture text %}
 
-Our research spans the full spectrum of health data to deliver digital health solutions: data acquisition with wearable electronics and sensor system design, data interpretation through signal processing and multimodal analysis, data modeling via customized machine learning algorithms and frameworks, as well as engaging end users throughout the development process.
+Our research spans the full spectrum of health data to deliver digital health solutions: data acquisition with wearable electronics and sensor system design, data interpretation through signal processing and multimodal analysis, data modeling via customized machine learning algorithms and frameworks, as well as end user engagement throughout the development process.
 
 {%
   include button.html
