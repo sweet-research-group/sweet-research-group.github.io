@@ -16,8 +16,8 @@ nav:
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {%
-  <!-- include button.html -->
-  <!-- link="projects" -->
+  include button.html
+  link="projects"
   text="Browse our projects"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -27,9 +27,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {% endcapture %}
 
 {%
-  <!-- include feature.html -->
+  include feature.html
   image="images/photo.jpg"
-  <!-- link="projects" -->
+  link="projects"
   title="Our Projects"
   flip=true
   style="bare"
