@@ -1,13 +1,13 @@
 ---
 title: Team
 nav:
-  order: 3
+  order: 2
   tooltip: About our team
 ---
 
 # Team -- Coming Soon
 
-<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
 nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
@@ -32,4 +32,4 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% endcapture %}
 
-{% include grid.html style="square" content=content %} -->
+{% include grid.html style="square" content=content %}

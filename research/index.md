@@ -1,15 +1,11 @@
 ---
 title: Publications
 nav:
-  order: 2
+  order: 3
   tooltip: Published works
 ---
 
-# Our Publications
-
-# {% include icon.html icon="fa-solid fa-microscope" %}Our Publications
-
-<!-- Our work has been published on Science Advances, . -->
+# {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
 {% include section.html %}
 
