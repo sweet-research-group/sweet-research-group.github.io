@@ -5,7 +5,7 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# Contact
 
 SWEET Research Group is with College of Health at Lehigh University in Bethlehem, Pennsylvania. We always seek motivated undergraduate and graduate students to learn and conduct research with us, as well as collaborations for research and fun projects. 
 
