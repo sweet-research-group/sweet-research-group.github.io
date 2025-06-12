@@ -55,7 +55,7 @@ Uncertainty in wearable data has been a critical challenge in developing reliabl
   include feature.html
   image="images/photo.jpg"
   link=""
-  title="Learning Strategies for effective health AI"
+  title="Learning Strategies for Robust Health AI"
   flip=true
   style="bare"
   text=text
