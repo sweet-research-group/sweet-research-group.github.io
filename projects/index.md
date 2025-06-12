@@ -13,7 +13,7 @@ nav:
 
 {% capture text %}
 
-Individuals with neurological disorders often exhibit abnormal gait and poor balance due to factors such as muscle weakness, spasticity, deformities, or self-developed compensatory movements. Detecting and correcting these compensations in real time is critical to improving clinical outcomes, promoting natural gait, reducing overuse injuries, pain, and fall risk. Our group works on designing smart wearable devices equipped with customized, real-time on-device machine learning to detect compensatory movements and provide immediate feedback, enabling human-in-the-loop interaction to support continuous adaptation and improvement. 
+Individuals with neurological disorders often exhibit abnormal gait and poor balance due to factors such as muscle weakness, spasticity, deformities, or self-developed compensatory movements. Detecting and correcting these compensations in real time is critical to improving clinical outcomes, promoting natural gait, reducing overuse injuries, pain, and fall risk. Our group works on designing smart wearable devices equipped with customized, real-time on-device machine learning to detect compensatory movements and provide real-time feedback or stimuli, enabling human-in-the-loop interaction to support continuous adaptation and improvement. 
 
 {% endcapture %}
 
