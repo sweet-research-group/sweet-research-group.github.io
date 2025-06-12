@@ -13,46 +13,39 @@ nav:
 
 <!-- {% capture text %} -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-<!-- {%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%} -->
-
-<!-- {% endcapture %} -->
+Individuals with neurological disorders often exhibit abnormal gait and poor balance due to factors such as muscle weakness, spasticity, deformities, or self-developed compensatory movements. Detecting and correcting these compensations in real time is critical to improving clinical outcomes, promoting natural gait, reducing overuse injuries, pain, and fall risk. Our group works on designing smart wearable devices equipped with customized, real-time on-device machine learning to detect compensatory movements and provide immediate feedback, enabling human-in-the-loop interaction to support continuous adaptation and improvement. 
 
 {%
   include feature.html
   image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  link=""
+  title="Smart Wearable Electronics"
   flip=true
   style="bare"
   text=text
 %}
 
 
-<!-- # {% include icon.html icon="fa-solid fa-wrench" %}Projects --> 
+Consumer-grade wearables (e.g., Fitbit, Apple Watch) offer great potential for remote health monitoring by capturing multi-modal data like heart rate, activity, and sleep. However, AI models built on this data often lack reliability due to individual variability, missing data, and limited ground truth in real-world use. Our group addresses these challenges by modeling longitudinal wearable data to develop digital biomarkers and predictive AI, aiming to deliver real-time feedback for users and support clinical decision-making, ultimately enhancing community-based remote health monitoring.
 
-<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.  -->
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link=""
+  title="Novel Biomarker and Predictive AI"
+  flip=true
+  style="bare"
+  text=text
+%}
 
-<!-- {% include tags.html tags="publication, resource, website" %} -->
+Uncertainty in wearable data has been a critical challenge in developing reliable AI for wearables. This uncertainty often undermines the robustness and generalizability of AI models when applied to new users or different scenarios. Our group aims to tackle these challenges by designing and applying diverse learning strategies to enhance the AI training process and improve performance across varied contexts.
 
-<!-- {% include search-info.html %} -->
-
-<!-- {% include section.html %} -->
-
-<!-- ## Featured -->
-
-<!-- {% include list.html component="card" data="projects" filter="group == 'featured'" %} -->
-
-<!-- {% include section.html %} -->
-
-<!-- ## Past -->
-
-<!-- {% include list.html component="card" data="projects" filter="!group" style="small" %} -->
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link=""
+  title="Learning Strategies for effective health AI"
+  flip=true
+  style="bare"
+  text=text
+%}
