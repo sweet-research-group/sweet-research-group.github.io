@@ -11,7 +11,7 @@ nav:
 
 {% include section.html %}
 
-## Highlighted
+## Featured
 
 {% include citation.html lookup="Biorhythm Changes Derived from Wearable Fitness Trackers Predict Postoperative Complications in Children" style="rich" %}
 
