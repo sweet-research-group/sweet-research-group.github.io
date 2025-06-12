@@ -10,12 +10,7 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@sweet-research-group.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: sweet-research-group
-  twitter: sweet-research-group
-  youtube: sweet-research-group
+  email: ruh725@lehigh.edu
 
 ### jekyll settings
 
