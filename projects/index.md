@@ -9,9 +9,8 @@ nav:
 
 {% include section.html %}
 
-## Research Themes -- Coming Soon
+## Research Themes
 
-<!-- {% capture text %} -->
 
 Individuals with neurological disorders often exhibit abnormal gait and poor balance due to factors such as muscle weakness, spasticity, deformities, or self-developed compensatory movements. Detecting and correcting these compensations in real time is critical to improving clinical outcomes, promoting natural gait, reducing overuse injuries, pain, and fall risk. Our group works on designing smart wearable devices equipped with customized, real-time on-device machine learning to detect compensatory movements and provide immediate feedback, enabling human-in-the-loop interaction to support continuous adaptation and improvement. 
 
@@ -37,6 +36,7 @@ Consumer-grade wearables (e.g., Fitbit, Apple Watch) offer great potential for r
   style="bare"
   text=text
 %}
+
 
 Uncertainty in wearable data has been a critical challenge in developing reliable AI for wearables. This uncertainty often undermines the robustness and generalizability of AI models when applied to new users or different scenarios. Our group aims to tackle these challenges by designing and applying diverse learning strategies to enhance the AI training process and improve performance across varied contexts.
 
