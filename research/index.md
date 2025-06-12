@@ -1,11 +1,11 @@
 ---
-title: Publications -- Under Construction
+title: Publications
 nav:
   order: 3
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Publications
+# {% include icon.html icon="fa-solid fa-microscope" %}Publications -- Under Construction
 
 
 
