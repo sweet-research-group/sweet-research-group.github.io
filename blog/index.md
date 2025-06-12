@@ -17,7 +17,7 @@ Postions available to start Spring and Fall 2026, details coming soon.
 
 
 ## Position -- Research Assistant
-Positions available to start Fall 2025, details coming soon
+Positions available to start Fall 2025, details coming soon.
 
 
 ## Position -- Part-time Physical Therapist
