@@ -13,7 +13,7 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Biorhythm Changes Derived from Wearable Fitness Trackers Predict Postoperative Complications in Children" style="rich" %}
 
 {% include section.html %}
 
