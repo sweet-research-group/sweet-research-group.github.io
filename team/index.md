@@ -7,29 +7,38 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Team -- Under Construction
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+## Principal Investigator
 
-{% include section.html background="images/background.png" dark=false %}
+{% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+I am an assistant professor in the Department of Biostatistics and Health Data Science in the College of Health, affiliated with the Department of Electrical and Computer Engineering in the College of Engineering at Lehigh University. I created and lead _Smart Wearable Electronics and hEalth daTa -- **SWEET** Research Group_. Before starting at Lehigh, I got my phd in engineering at Texas A&M University, worked as electronics engineer at MKS Instruments, Inc., then finished my postdoc training at Shirley Ryan AbilityLab (world's best rehabilitation hospital) and Northwestern University. I am passionate about wearable technologies for health and I determined to work on wearable research since 2014 when I had ACL surgery and went through a very painful recovery. I specialize in wearable electronics, sensor data processing, machine learning for digital health applications. My past research focuses on designing and exploring smart insoles to help patients with Parkinson's disease, creating novel digital biomarkers and developing predictive AI for postoperative recovery monitoring in children, as well as exploring haptic feedback to assist gait and balancing training in stroke and spinal cord injury patients. The vision for my research program is to develop smart wearable electronics and machine learning frameworks, and then translate them into wearable and AI-powered digital health solutions. 
 
-{% include section.html %}
-
-{% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{%
+  include button.html
+  link=""
+  text="My Profile"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
 
 {% endcapture %}
 
-{% include grid.html style="square" content=content %}
+{%
+  include feature.html
+  image="images/PI.jpg"
+  link=""
+  title="Rui Hua"
+  text=text
+%}
+
+## Students
+Under Construction
+
+
+## Physical Therapists
+Under Construction
+
+

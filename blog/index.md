@@ -10,13 +10,12 @@ nav:
 
 {% include section.html %}
 
-## Position -- PhD Students
+## Position -- PhD Student
+Coming soon.
 
 
-
-## Position -- Paid Research Assistants
-
-
+## Position -- Paid Research Assistant
+Coming soon.
 
 
 ## Position -- Part-time Physical Therapist
