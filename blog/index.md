@@ -11,12 +11,12 @@ nav:
 {% include section.html %}
 
 ## Position -- PhD Student
-Hiring for Spring, Fall 2026, details coming soon.
+Postions available to start Spring and Fall 2026, details coming soon.
 
 
 ## Position -- Paid Research Assistant
-Hiring for Fall 2025, details coming soon
+Positions available to start Fall 2025, details coming soon
 
 
 ## Position -- Part-time Physical Therapist
-Hiring for Spring 2026, details coming soon.
+Positions available to start Spring 2026, details coming soon.
