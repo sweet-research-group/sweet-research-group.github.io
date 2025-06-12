@@ -19,7 +19,7 @@ Individuals with neurological disorders often exhibit abnormal gait and poor bal
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research1.jpg"
   link=""
   title="Smart Wearable Electronics"
   flip=true
@@ -36,7 +36,7 @@ Consumer-grade wearables (e.g., Fitbit, Apple Watch) offer great potential for r
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research2.jpg"
   link=""
   title="Novel Wearable-derived Biomarkers and Predictive AI"
   flip=true
@@ -53,7 +53,7 @@ Uncertainty in wearable data has been a critical challenge in developing reliabl
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research3.jpg"
   link=""
   title="Learning Strategies for Robust Health AI"
   flip=true
