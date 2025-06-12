@@ -11,13 +11,12 @@ nav:
 {% include section.html %}
 
 ## Position -- PhD Student
-Coming soon.
+Hiring for Spring, Fall 2026, details coming soon.
 
 
 ## Position -- Paid Research Assistant
-Coming soon.
+Hiring for Fall 2025, details coming soon
 
 
 ## Position -- Part-time Physical Therapist
-
-Coming soon.
+Hiring for Spring 2026, details coming soon.

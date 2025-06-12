@@ -18,7 +18,7 @@ I am an assistant professor in the Department of Biostatistics and Health Data S
 {%
   include button.html
   link=""
-  text="My Profile"
+  text="My Lehigh Profile"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
