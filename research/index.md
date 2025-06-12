@@ -5,7 +5,7 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Publications -- Under Construction
+# {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
 
 
@@ -16,7 +16,7 @@ nav:
 Rui Hua+, Michela Carter+, Megan K. O'Brien, J. Benjamin Pitt, KSoyang Kwon, Gia Oscherwitz, Austin Chen, Arianna Edobor, Renee C.B. Manworren, Hassan MK Ghomrawi, Fizan Abdullah, and Arun Jayaraman, “Biorhythm Changes Derived from Wearable Fitness Trackers Predict Postoperative Complications in Children”, **Science Advances**, **2025** (_in press_)
 
 
-Rui Hua, Yiyu Wang, Deanna M. Kennedy, James E. Hubbard Jr., and Ya Wang, “Toe Tapping-based Falling Risk Evaluation for Patients with Parkinson’s Disease using Monitoring Insoles”, **IEEE Sensors Letters**, 6(6), pp.1-4, 2022 (_**media coverage** by IEEE Spectrum, Futurity, etc._)
+Rui Hua, Yiyu Wang, Deanna M. Kennedy, James E. Hubbard Jr., and Ya Wang, “Toe Tapping-based Falling Risk Evaluation for Patients with Parkinson’s Disease using Monitoring Insoles”, **IEEE Sensors Letters**, 6(6), pp.1-4, **2022** (_**media coverage** by IEEE Spectrum, Futurity, etc._)
 
 
 

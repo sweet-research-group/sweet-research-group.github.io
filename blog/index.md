@@ -16,7 +16,7 @@ _Besides the open positions, our group always looks for movitated students to jo
 Postions available to start Spring and Fall 2026, details coming soon.
 
 
-## Position -- Paid Research Assistant
+## Position -- Research Assistant
 Positions available to start Fall 2025, details coming soon
 
 
