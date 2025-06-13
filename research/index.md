@@ -40,7 +40,7 @@ Carter, M., Chen, A., Pitt, B.J., Hua, R., Edobor, A., Kwon, S., Goldstein, S. D
 Pitt, B., Carter, M., Zeineddin, S., Bai, I., Hua, R., Kwon, S., Ghomrawi, H. MK, and Abdullah, F., **“Association of Wearable Derived Pulse Rate Variability with Pediatric Appendectomy Complications”**, Journal of Pediatric Surgery, 2024
 
 
-Carter, M.*, Hua, R.*, O’Brien, M. K., Pitt, B.J., Kwon, S., Jayaraman, A., Ghomrawi, H. MK, and Abdullah, F., **“Autocorrelation of daily resting heart rate: A novel metric of postoperative recovery”**, International Journal of Medical Informatics, 105655, 2024
+Carter, M.+, Hua, R.+, O’Brien, M. K., Pitt, B.J., Kwon, S., Jayaraman, A., Ghomrawi, H. MK, and Abdullah, F., **“Autocorrelation of daily resting heart rate: A novel metric of postoperative recovery”**, International Journal of Medical Informatics, 105655, 2024
 
 
 Almuteb, I., Hua, R., and Wang, Y., **"Stage-Wise Data Balancing Promoting Toe-tapping-based Classification of Parkinson's Disease Progression using Smart Insoles"**, BMC Medical Informatics and Decision Making (_preprint available, 2nd revision under review_)
