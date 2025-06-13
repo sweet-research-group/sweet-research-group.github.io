@@ -30,7 +30,7 @@ Individuals with neurological disorders often exhibit abnormal gait and poor bal
 
 {% capture text %}
 
-Consumer-grade wearables (e.g., Fitbit, Apple Watch) offer great potential for remote health monitoring by capturing multi-modal data like heart rate, activity, and sleep. However, AI models built on this data often lack reliability due to individual variability, missing data, and limited ground truth in real-world use. Our group addresses these challenges by modeling longitudinal wearable data to develop digital biomarkers and predictive AI, aiming to deliver real-time feedback for users and patients and support clinical decision-making, ultimately enhancing community-based remote health monitoring.
+Remote patient monitoring offers clinicians the full picture of their patients in the community. Consumer-grade wearables (e.g., Fitbit, Apple Watch) offer great potential for remote health monitoring by capturing multi-modal data like heart rate, activity, and sleep. Our group models longitudinal wearable data to develop novel digital biomarkers and predictive AI, aiming to support clinical decision-making as well as engaging patients by providing them feedback, ultimately enhancing community-based remote health monitoring.
 
 {% endcapture %}
 
@@ -47,7 +47,7 @@ Consumer-grade wearables (e.g., Fitbit, Apple Watch) offer great potential for r
 
 {% capture text %}
 
-Uncertainty in wearable data has been a critical challenge in developing reliable AI for wearables. This uncertainty often undermines the robustness and generalizability of AI models when applied to new users or different scenarios. Our group aims to tackle these challenges by developing and applying different learning strategies to enhance the AI training process and improve performance when AI is being deployed.
+Uncertainty in wearable data has been a critical challenge in developing reliable AI for wearables. This uncertainty often undermines the robustness and generalizability of AI models due to individual variability, missing data, and limited ground truth in real-world use. Our group aims to tackle these challenges by developing and applying different learning strategies to enhance the AI training process and improve performance when AI is being deployed.
 
 {% endcapture %}
 
