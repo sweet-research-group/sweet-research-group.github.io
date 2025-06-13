@@ -47,7 +47,7 @@ Remote patient monitoring offers clinicians the full picture of their patients i
 
 {% capture text %}
 
-Uncertainty in wearable data has been a critical challenge in developing reliable AI for wearables. This uncertainty often undermines the robustness and generalizability of AI models due to individual variability, missing data, and limited ground truth in real-world use. Our group aims to tackle these challenges by developing and applying different learning strategies to enhance the AI training process and improve performance when AI is being deployed.
+Uncertainty in wearable data has been a critical challenge in developing reliable AI for wearables. This uncertainty, due to individual variability, missing data, and limited ground truth in real-world use, often undermines the robustness and generalizability of AI models. Our group aims to tackle these challenges by developing and applying different learning strategies to enhance the AI training process and improve performance when AI is being deployed.
 
 {% endcapture %}
 
