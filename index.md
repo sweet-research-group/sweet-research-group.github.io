@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Our cross-disciplinary research group consists of exceptional undergraduate and graduate students from Lehigh University—majoring in _[engineering](https://engineering.lehigh.edu/)_ and _[health](https://health.lehigh.edu/)_—as well as physical therapists from _[Good Shepherd Rehabilitation Hospital](https://www.goodshepherdrehab.org/location/good-shepherd-rehabilitation-hospital/)_ in the Lehigh Valley.
+Our cross-disciplinary research group consists of undergraduate and graduate students from _[Lehigh University](https://www2.lehigh.edu/)_—majoring in _[engineering](https://engineering.lehigh.edu/)_ and _[health](https://health.lehigh.edu/)_—as well as physical therapists from _[Good Shepherd Rehabilitation Hospital](https://www.goodshepherdrehab.org/location/good-shepherd-rehabilitation-hospital/)_ in the Lehigh Valley.
 
 {%
   include button.html
