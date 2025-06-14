@@ -15,7 +15,7 @@ nav:
 Rui Hua+, Michela Carter+, Megan K. O'Brien, J. Benjamin Pitt, Soyang Kwon, Gia Oscherwitz, Austin Chen, Arianna Edobor, Renee C.B. Manworren, Hassan MK Ghomrawi, Fizan Abdullah, and Arun Jayaraman, **“Biorhythms Derived from Consumer Wearables Predict Postoperative Complications in Children”**, **_Science Advances_**, **2025** (_in press_)
 
 
-Rui Hua, Yiyu Wang, Deanna M. Kennedy, James E. Hubbard Jr., and Ya Wang, **“Toe Tapping-based Falling Risk Evaluation for Patients with Parkinson’s Disease using Monitoring Insoles”**, **_IEEE Sensors Letters_**, 6(6), pp.1-4, **2022** (media coverage by _[IEEE Spectrum](https://spectrum.ieee.org/smart-footwear-helps-assess-the-fall-risk-of-people-with-parkinsons-disease), [Futurity](https://www.futurity.org/parkinsons-fall-risk-smart-shoe-insole-2791342/)_, etc.)
+Rui Hua, Yiyu Wang, Deanna M. Kennedy, James E. Hubbard Jr., and Ya Wang, **“Toe Tapping-based Falling Risk Evaluation for Patients with Parkinson’s Disease using Monitoring Insoles”**, **_IEEE Sensors Letters_**, 6(6), pp.1-4, **2022** (media coverage by _[IEEE Spectrum](https://spectrum.ieee.org/smart-footwear-helps-assess-the-fall-risk-of-people-with-parkinsons-disease), [Futurity](https://www.futurity.org/parkinsons-fall-risk-smart-shoe-insole-2791342/), etc._)
 
 
 {% include section.html %}
