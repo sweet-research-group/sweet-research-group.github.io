@@ -3,7 +3,7 @@
 
 # Wearables and AI to provide translational digital health solutions
 
-_**S**mart **W**earable **E**lectronics and h**E**alth da**T**a_ -- **_SWEET Research Group_** at Lehigh University is dedicated to advancing human health through interdisciplinary approaches that integrate engineering, health and clinical knowledge. Focusing on health-related data, we design smart wearable devices for data acquisition and develop machine learning frameworks for data processing and modeling. Then, **at the system level, we translate these innovations into wearable and AI-powered digital health solutions**—aimed at supporting clinicians in decision-making and assisting aging individuals and patients with neurological disorders in the clinic and community. 
+_**S**mart **W**earable **E**lectronics and h**E**alth da**T**a_ -- **_SWEET Research Group_** at Lehigh University is dedicated to advancing human health through interdisciplinary approaches that integrate engineering, health and clinical knowledge. Focusing on health data, we design smart wearable devices for data acquisition and develop machine learning frameworks for data processing and modeling. Then, **at the system level, we translate these innovations into wearable and AI-powered digital health solutions**—aimed at supporting clinicians in decision-making and assisting aging individuals and patients with neurological disorders in the clinic and community. 
 
 {% include section.html %}
 
