@@ -18,7 +18,7 @@ I am an incoming assistant professor in the Department of Biostatistics and Heal
 {%
   include button.html
   link=""
-  text="My Lehigh Profile"
+  text="My Lehigh Profile Coming Soon"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
