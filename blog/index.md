@@ -7,7 +7,7 @@ nav:
 
 # Open Positions -- Coming Soon
 
-_Besides the open positions, our group always looks for movitated students to join us. We welcome students who are looking for opportunities to explore research interest or gain research experiences._ _Reach out to Dr. Rui Hua (_**_ruh725@lehigh.edu_**_) for any opportunities._ 
+_Besides the open positions, our group always looks for movitated students to join us. We welcome students who are looking for opportunities to explore research interest or gain research experiences._ _Reach out to Prof. Rui Hua (_**_ruh725@lehigh.edu_**_) for any opportunities._ 
 
 
 {% include section.html %}
