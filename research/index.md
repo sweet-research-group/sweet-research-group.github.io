@@ -12,7 +12,7 @@ nav:
 
 ## Featured
 
-Rui Hua+, Michela Carter+, Megan K. O'Brien, J. Benjamin Pitt, Soyang Kwon, Gia Oscherwitz, Austin Chen, Arianna Edobor, Renee C.B. Manworren, Hassan MK Ghomrawi, Fizan Abdullah, and Arun Jayaraman, **“Biorhythms Derived from Consumer Wearables Predict Postoperative Complications in Children”**, **_Science Advances_**, 11,eadv2643.DOI:10.1126/sciadv.adv2643, **2025** (research spotlight by _[Shirley Ryan AbilityLab](https://www.sralab.org/articles/blog/research-spotlight-predicting-pediatric-surgery-complications-wearables?utm_source=social&utm_medium=linkedin&utm_campaign=wearables%20science%20advances%20press%20release)_)
+Rui Hua+, Michela Carter+, Megan K. O'Brien, J. Benjamin Pitt, Soyang Kwon, Gia Oscherwitz, Austin Chen, Arianna Edobor, Renee C.B. Manworren, Hassan MK Ghomrawi, Fizan Abdullah, and Arun Jayaraman, **“Biorhythms Derived from Consumer Wearables Predict Postoperative Complications in Children”**, **_Science Advances_**, 11, eadv2643.DOI:10.1126/sciadv.adv2643, **2025** (research spotlight by _[Shirley Ryan AbilityLab](https://www.sralab.org/articles/blog/research-spotlight-predicting-pediatric-surgery-complications-wearables?utm_source=social&utm_medium=linkedin&utm_campaign=wearables%20science%20advances%20press%20release)_)
 
 
 Rui Hua, Yiyu Wang, Deanna M. Kennedy, James E. Hubbard Jr., and Ya Wang, **“Toe Tapping-based Falling Risk Evaluation for Patients with Parkinson’s Disease using Monitoring Insoles”**, **_IEEE Sensors Letters_**, 6(6), pp.1-4, **2022** (media coverage by _[IEEE Spectrum](https://spectrum.ieee.org/smart-footwear-helps-assess-the-fall-risk-of-people-with-parkinsons-disease), [Futurity](https://www.futurity.org/parkinsons-fall-risk-smart-shoe-insole-2791342/), etc._)
@@ -28,7 +28,7 @@ Almuteb, I., Hua, R., Emad-Ud-Din, M., Vanegas-Arroyave, N., Wang, Y., **“Heel
 Carter, M.+, Hua, R.+, O’Brien, M. K., Pitt, B. J., Kwon, S., Chen, A., Edobor, A., Manworren, R. C. B., Jayaraman, A., Ghomrawi, H. MK, and Abdullah, F., **“Circadian Rhythms as Digital Biomarkers of Postoperative Recovery and Complications in Children”**. Digital Health (_under review_)
 
 
-Hua, R.+, Carter, M.+, O’Brien, M. K., Pitt, B. J., Kwon, S., Oscherwitz, G., Chen, A., Edobor, A., Manworren, R. C. B., Ghomrawi, H. MK, Abdullah, F., and Jayaraman, A., **“Biorhythm Changes Derived from Wearable Fitness Trackers Predict Postoperative Complications in Children”**, Science Advances, 2025 (_in press_)
+Hua, R.+, Carter, M.+, O’Brien, M. K., Pitt, B. J., Kwon, S., Oscherwitz, G., Chen, A., Edobor, A., Manworren, R. C. B., Ghomrawi, H. MK, Abdullah, F., and Jayaraman, A., **“Biorhythm Changes Derived from Wearable Fitness Trackers Predict Postoperative Complications in Children”**, Science Advances, 11, eadv2643.DOI:10.1126/sciadv.adv2643, 2025
 
 
 Carter, M., Chen, A.R., Pitt, J.B., Hua, R., Wafford, Q.E., Manworren, R.C., Ghomrawi, H.M. and Abdullah, F., **"Classification Systems of Surgical Complexity: A Scoping Review of the Literature"**. Journal of Surgical Research, 306, pp.570-579, 2025
