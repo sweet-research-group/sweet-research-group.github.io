@@ -12,7 +12,7 @@ nav:
 
 ## Featured
 
-Rui Hua+, Michela Carter+, Megan K. O'Brien, J. Benjamin Pitt, Soyang Kwon, Gia Oscherwitz, Austin Chen, Arianna Edobor, Renee C.B. Manworren, Hassan MK Ghomrawi, Fizan Abdullah, and Arun Jayaraman, **“Biorhythms Derived from Consumer Wearables Predict Postoperative Complications in Children”**, **_Science Advances_**, 11,eadv2643.DOI:10.1126/sciadv.adv2643, **2025** (research spotlight by _[Shirley Ryan AbilityLab](https://www.sralab.org/articles/blog/research-spotlight-predicting-pediatric-surgery-complications-wearables?utm_source=social&utm_medium=linkedin&utm_campaign=wearables%20science%20advances%20press%20release))
+Rui Hua+, Michela Carter+, Megan K. O'Brien, J. Benjamin Pitt, Soyang Kwon, Gia Oscherwitz, Austin Chen, Arianna Edobor, Renee C.B. Manworren, Hassan MK Ghomrawi, Fizan Abdullah, and Arun Jayaraman, **“Biorhythms Derived from Consumer Wearables Predict Postoperative Complications in Children”**, **_Science Advances_**, 11,eadv2643.DOI:10.1126/sciadv.adv2643, **2025** (research spotlight by _[Shirley Ryan AbilityLab](https://www.sralab.org/articles/blog/research-spotlight-predicting-pediatric-surgery-complications-wearables?utm_source=social&utm_medium=linkedin&utm_campaign=wearables%20science%20advances%20press%20release)_)
 
 
 Rui Hua, Yiyu Wang, Deanna M. Kennedy, James E. Hubbard Jr., and Ya Wang, **“Toe Tapping-based Falling Risk Evaluation for Patients with Parkinson’s Disease using Monitoring Insoles”**, **_IEEE Sensors Letters_**, 6(6), pp.1-4, **2022** (media coverage by _[IEEE Spectrum](https://spectrum.ieee.org/smart-footwear-helps-assess-the-fall-risk-of-people-with-parkinsons-disease), [Futurity](https://www.futurity.org/parkinsons-fall-risk-smart-shoe-insole-2791342/), etc._)
