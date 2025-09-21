@@ -13,8 +13,11 @@ _My course often invites people from industry and academia whose work is related
 
 ## Fall 2025 Undergraduate Course
 **CSE 012-011** -- _Introduction to Programming with Python_
+
 Guest Lecture Topic: Me and My Best Friend Python
+
   Tianhe Li, PhD, Research Scientist, Meta
+  
   Richa Rai, PhD, Postdoctoral Research Fellow, Shirley Ryan AbilityLab/Northwestern University
 
 
