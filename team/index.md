@@ -35,7 +35,41 @@ I am an assistant professor in the Department of Biostatistics and Health Data S
 %}
 
 ## Students
-Under Construction
+
+{% capture text %}
+
+I am an undergraduate senior majoring in Population Health with a minor in Biostatistics at Lehigh University. I am passionate about advancing health equity. I’m currently building my experience in public health research, data analysis, and interpretation. I aim to mitigate the health disparities in marginalized communities using epidemiological methods and determinants of health, with a specific intersection at AI and technology.
+ 
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/Jia.jpg"
+  link=""
+  title="Jiaruo Li"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+
+{% capture text %}
+
+My name is Alex Lien, and I am from Pittston, PA. I am a sophomore on the pre-medical track, pursuing a dual degree in Biology and HMS. I am excited to work with the local population and other lab staff to help people with mobility issues.
+ 
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/Alex.jpg"
+  link=""
+  title="Alex Lien"
+  flip=true
+  style="bare"
+  text=text
+%}
 
 
 ## Physical Therapists
