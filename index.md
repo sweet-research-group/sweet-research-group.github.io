@@ -74,7 +74,7 @@ Our cross-disciplinary research group consists of undergraduate and graduate stu
 
 {%
   include feature.html
-  image="images/ourgroup4.jpg"
+  image="images/ourgroup5.jpg"
   link="team"
   title="Our Group"
   text=text
