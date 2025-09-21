@@ -56,6 +56,24 @@ I am an undergraduate senior majoring in Population Health with a minor in Biost
 
 {% capture text %}
 
+Major in Biostatistics/Health Data Science & Population Health, College of Health.
+ 
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/studentdonut.jpg"
+  link=""
+  title="Callie Higgins"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+
+{% capture text %}
+
 My name is Alex Lien, and I am from Pittston, PA. I am a sophomore on the pre-medical track, pursuing a dual degree in Biology and HMS. I am excited to work with the local population and other lab staff to help people with mobility issues.
  
 
@@ -66,6 +84,60 @@ My name is Alex Lien, and I am from Pittston, PA. I am a sophomore on the pre-me
   image="images/Alex.jpg"
   link=""
   title="Alex Lien"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+
+{% capture text %}
+
+Major in Industrial and Systems Engineering and a minor in Computer Science, College of Engineering.
+ 
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/studentdonut.jpg"
+  link=""
+  title="Liam Berryman"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+
+{% capture text %}
+
+Major in Mechanical Engineering and a minor in Economics, College of Engineering.
+ 
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/studentdonut.jpg"
+  link=""
+  title="Benjamin Van Magness"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+
+{% capture text %}
+
+Undeclared major, College of Health.
+ 
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/studentdonut.jpg"
+  link=""
+  title="Phillip Kim"
   flip=true
   style="bare"
   text=text
