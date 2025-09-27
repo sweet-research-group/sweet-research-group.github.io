@@ -56,14 +56,15 @@ I am an undergraduate senior majoring in Population Health with a minor in Biost
 
 {% capture text %}
 
-Major in Biostatistics/Health Data Science & Population Health, College of Health.
+I am a junior at Lehigh University pursuing a dual degree in Biostatistics and Population Health in the College of Health. I am passionate about leveraging data science, particularly machine learning, to improve the quality of life of people in vulnerable populations and advance public health. I am also excited to further explore digital health, as it uniquely integrates my interests in data/technology and health.
+
  
 
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/studentdonut.jpg"
+  image="images/CH.jpg"
   link=""
   title="Callie Higgins"
   flip=true
@@ -128,14 +129,15 @@ Major in Mechanical Engineering and a minor in Economics, College of Engineering
 
 {% capture text %}
 
-Undeclared major, College of Health.
+I am a freshman in Lehigh University's College of Health. My past research has included modeling the relationship between climate change and Lyme Disease. I'm excited to gain exposure to clinical trials through working with the Smart Wearable Electronics and hEalth daTa (SWEET) Research Group.
+
  
 
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/studentdonut.jpg"
+  image="images/PK.jpg"
   link=""
   title="Phillip Kim"
   flip=true
