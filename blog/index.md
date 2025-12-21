@@ -25,7 +25,7 @@ The PhD student will work on research of wearable and AI-powered digital health 
 
 
 **Example Responsibilities and Tasks** 
--	Work on sensor data processing, analysis, and multimodal modeling, embedded machine learning/deep learning. 
+-	Work on sensor data processing, analysis, multimodal modeling and machine learning/deep learning. 
 -	Participate in recruitment and data collection in the community and clinics. 
 -	Work on preparation of manuscripts for publication. 
 - Attend and present at conferences. 
@@ -34,7 +34,7 @@ The PhD student will work on research of wearable and AI-powered digital health 
 
 
 **Qualifications** 
--	With a major/degree in electrical and computer engineering, biomedical engineering, or a related field (Master’s degree preferred).
+-	With a major/degree in electrical and computer engineering, biomedical engineering, or a related field (**Master’s degree** preferred).
 -	Knowledge and experience in signal processing, sensor data collection and analysis, such as EMG, IMU. 
 -	Knowledge and experience in machine learning/deep learning. 
 -	Programming skills: python, C/C++. 
