@@ -42,7 +42,7 @@ The PhD student will work on research of wearable and AI-powered digital health 
 -	Creative and collaborative mindsets, and strong interest in research of wearable technologies. 
 
 
-**Others nice to Have**
+**Others Nice to Have**
 - Knowledge and experience in embedded systems, microcontrollers, circuits and PCBs. 
 -	Knowledge and experience in mobile, VR application development.
 -	Prior research experience in using sensing equipment such as Force Plates, Delsys, GAITRite, Optical Motion Capture. 
