@@ -25,9 +25,9 @@ The PhD student will work on research of wearable and AI-powered digital health 
 
 
 **Example Responsibilities and Tasks** 
--	Develop virtual reality (VR) applications.
 - Work on circuit, PCB design and test for customized wearable electronics.
 -	Work on sensor data processing, analysis, and multimodal modeling, embedded machine learning/deep learning. 
+- Develop virtual reality (VR) applications.
 -	Participate in recruitment and data collection in the community and clinics. 
 -	Work on preparation of manuscripts for publication and attend conferences. 
 -	Work in a cross-disciplinary research team, including pre-health/pre-med, engineering undergraduate and graduate students at Lehigh University and physical/occupational therapists from the local hospital. 
@@ -43,10 +43,10 @@ The PhD student will work on research of wearable and AI-powered digital health 
 
 
 **Others nice to Have**
--	Knowledge and experience in Virtual Reality application development.
 - Knowledge and experience in embedded systems, microcontrollers, circuit and PCBs. 
+-	Knowledge and experience in Virtual Reality application development.
 -	Prior research experience in using sensing equipment such as Force Plates, Delsys, GAITRite, Optical Motion Capture. 
--	Prior research experience in the applications of wearables in health, such as gait analysis, human movement analysis, etc. 
+-	Prior research experience in the applications of wearables in health, such as gait analysis, human movement analysis. 
 
 
 <!-- 
