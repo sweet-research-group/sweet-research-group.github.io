@@ -14,14 +14,14 @@ _Open positions are listed in below. Besides the open positions, our group alway
 
 ## PhD Students
 
-_If you are interested, please send an email with **your CV**, **list of courses related to the qualifications below**, and **a short paragraph of yur past research experience** and **why you’d like to join our research group** to Prof. Rui Hua (ruh725@lehigh.edu)._
+_If you are interested in joining our group, please send an email with **your CV**, **list of courses related to the qualifications below**, and **a short paragraph of yur past research experience** and **why you’d like to join our research group** to Prof. Rui Hua (ruh725@lehigh.edu)._
 
 
 **Start date:** Spring and Fall 2026.
 
 
 **Description**
-The PhD student/Postdoc fellow will work on research of wearable and AI-powered digital health solutions for patients with neurological disorders. The uniqueness of this position is that, after the PhD study, the student is expected to be interdisciplinary in the engineering and clinical fields. The student will learn and apply hands-on, quantitative engineering skills and gain clinical experiences through working closely with the collaborated hospitals and clinicians, and eventually translating research into real-world impacts. 
+The PhD student will work on research of wearable and AI-powered digital health solutions for patients with neurological disorders. The uniqueness of this position is that, after the PhD study, the student is expected to be interdisciplinary in the engineering and clinical fields. The student will learn and apply hands-on, quantitative engineering skills and gain clinical experiences through working closely with the collaborated hospitals and clinicians, and eventually translating research into real-world impacts. 
 
 
 **Example Responsibilities and Tasks** 
