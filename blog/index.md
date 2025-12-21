@@ -21,7 +21,7 @@ _If you are interested in joining our group, please send an email with **your CV
 
 
 **Description**
-The PhD student will work on research of wearable and AI-powered digital health solutions for patients with neurological disorders in a cross-disciplinary research team, including pre-health/pre-med, engineering undergraduate and graduate students at Lehigh University and clinicians from the local hospitals. The uniqueness of this position is that, after the PhD study, the student is expected to be interdisciplinary leaders in specific engineering and clinical fields. The student will learn and apply hands-on, quantitative engineering skills and gain clinical experiences through working closely with the collaborated hospitals and clinicians, and eventually translating research into real-world impacts. 
+The PhD student will work on research of wearable and AI-powered digital health solutions for patients with neurological disorders in a cross-disciplinary research team, including pre-health/pre-med, engineering undergraduate and graduate students at Lehigh University and clinicians from the local hospitals. The uniqueness of this position is that, after the PhD study, the student is expected to be interdisciplinary, capable and independent researchers in specific engineering and clinical fields. The student will learn and apply hands-on, quantitative engineering skills and gain clinical experiences through working closely with the collaborated hospitals and clinicians, and eventually translating research into real-world impacts. 
 
 
 **Example Responsibilities and Tasks** 
