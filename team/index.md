@@ -49,7 +49,7 @@ Occupational Threpist at Good Shepherd Rehabilitation Networks
   image="images/studentdonut.jpg"
   link=""
   title="Carly Haffner"
-  flip=true
+  flip=false
   style="bare"
   text=text
 %}
