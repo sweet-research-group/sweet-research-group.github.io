@@ -14,7 +14,7 @@ _Open positions are listed in below. Besides the open positions, our group alway
 
 ## PhD Students
 
-_If you are interested in joining our group, please send an email with **your CV**, **list of courses related to the qualifications below**, and **a short paragraph of yur past research experience** and **why you’d like to join our research group** to Prof. Rui Hua (ruh725@lehigh.edu)._
+_If you are interested in joining our group, please send an email with **your CV**, **list of courses related to the qualifications below**, and **a short paragraph about yur past research experience** and **why you’d like to join our research group** to Prof. Rui Hua (ruh725@lehigh.edu)._
 
 
 **Start date:** Spring and Fall 2026.
