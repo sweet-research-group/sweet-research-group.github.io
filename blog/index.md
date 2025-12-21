@@ -28,7 +28,7 @@ The PhD student will work on research of wearable and AI-powered digital health 
 -	Work on developing virtual reality (VR) applications
 - Work on circuit, PCB design and test for customized wearable electronics.
 -	Work on sensor data processing, analysis, and multimodal modeling, embedded machine learning/deep learning. 
--	Participate in participant recruitment and data collection; may need to travel, short trips to the local hospital very close to Lehigh campus for experiment and data collection. 
+-	Participate in recruitment and data collection; may need to travel, short trips to the local hospital very close to Lehigh campus for experiment and data collection. 
 -	Work on preparation of manuscripts for publication and conference presentations. 
 -	Work in a cross-disciplinary research team, including pre-health/pre-med, engineering undergraduate and graduate students at Lehigh University and physical/occupational therapists from the local hospital. 
 
