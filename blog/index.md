@@ -25,12 +25,10 @@ The PhD student will work on research of wearable and AI-powered digital health 
 
 
 **Example Responsibilities and Tasks** 
--	Work on sensor data processing, analysis, multimodal modeling and machine learning/deep learning. 
+-	Work on sensor data processing, analysis, multimodal data modeling and machine learning/deep learning. 
 -	Participate in recruitment and data collection in the community and clinics. 
 -	Work on preparation of manuscripts for publication. 
 - Attend and present at conferences. 
-- Hardware-focus: Work on circuit, PCB design and test for customized wearable electronics.
-- Software-focus: Develop mobile and virtual reality (VR) applications.
 
 
 **Qualifications** 
