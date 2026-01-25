@@ -21,7 +21,11 @@ _If you are interested in joining our group, please send an email with **your CV
 
 
 **Description**
-The PhD student will work on research of wearable and AI-powered digital health solutions for patients with neurological disorders in a cross-disciplinary research team, including pre-health/pre-med, engineering undergraduate and graduate students at Lehigh University and clinicians from the local hospitals. The uniqueness of this position is that, after the PhD study, the student is expected to be interdisciplinary, capable and independent researchers in specific engineering and clinical fields. The student will learn and apply hands-on, quantitative engineering skills and gain clinical experiences through working closely with the collaborated hospitals and clinicians, and eventually translating research into real-world impacts. 
+The PhD student will work on research of wearable and AI-powered digital health solutions for patients with neurological disorders in a cross-disciplinary research team, including pre-health/pre-med, engineering undergraduate and graduate students at Lehigh University and clinicians from the local hospitals. The student will learn and apply hands-on, quantitative engineering skills and gain clinical experiences through working closely with the collaborated hospitals and clinicians, and eventually translating research into real-world impacts. 
+
+
+The student can choose a PhD program at Department of Electrical and Computer Science in College of Engineering or a PhD program in College of Health at Lehigh University. The position is fully funded. Requirements may be different in PhD programs in College of Engineering and College of Health. The application deadline can be flexible. Reach out to Prof. Hua for details. 
+
 
 
 **Example Responsibilities and Tasks** 
@@ -32,17 +36,16 @@ The PhD student will work on research of wearable and AI-powered digital health 
 
 
 **Qualifications** 
--	With a major/degree in electrical and computer engineering, biomedical engineering, or a related field (**Master’s degree** preferred).
+-	With a major/degree in electrical and computer engineering, biomedical engineering, or a related field.
 -	Knowledge and experience in signal processing, sensor data collection and analysis, such as EMG, IMU. 
 -	Knowledge and experience in machine learning/deep learning. 
 -	Programming skills: python, C/C++. 
--	Prior research experience in working on sensor data and machine learning/deep learning for human health. 
+-	Prior research experience in working on wearables and human health. 
 -	Creative and collaborative mindsets, and strong interest in research of wearable technologies. 
 
 
-**Others Nice to Have**
+**Others Nice to Have (any in the listed ones)**
 - Knowledge and experience in embedded systems, microcontrollers, circuits and PCBs. 
--	Knowledge and experience in mobile, VR application development.
 -	Prior research experience in using sensing equipment such as Force Plates, Delsys, GAITRite, Optical Motion Capture. 
 -	Prior research experience in the applications of wearables in health, such as gait analysis, human movement analysis. 
 

@@ -172,7 +172,7 @@ Major in Community and Global Health, College of Health.
 %}
 
 
-
+<!--
 {% capture text %}
 
 Major in Computer Engineering and minor in Data Science and Music, P.C. Rossin College of Engineering & Applied Science.
@@ -189,7 +189,7 @@ Major in Computer Engineering and minor in Data Science and Music, P.C. Rossin C
   style="bare"
   text=text
 %}
-
+-->
 
 
 {% capture text %}
