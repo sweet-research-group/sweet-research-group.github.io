@@ -56,9 +56,47 @@ Occupational Threpist at Good Shepherd Rehabilitation Networks
 
 
 
-## Students
+## Graduate Students
+
+{% capture text %}
+
+Major in Data Science, College of Engineering
+ 
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/studentdonut.jpg"
+  link=""
+  title = "Thoi Quach"
+  flip=true
+  style="bare"
+  text=text
+%}
 
 
+
+{% capture text %}
+
+I am currently a graduate student in the Healthcare Systems Engineering (HSE) program. I have prior experience with Python and machine learning, and I am particularly interested in how wearable smart devices can be used to study and improve mobility in patients with Parkinson’s disease. 
+ 
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/studentdonut.jpg"
+  link=""
+  title = "Zixuan Liu"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+
+
+## Undergraduate Students
 
 
 {% capture text %}
@@ -194,14 +232,13 @@ Major in Computer Engineering and minor in Data Science and Music, P.C. Rossin C
 
 {% capture text %}
 
-Major in Population Health, College of Health.
- 
+I am an undergraduate majoring in Population Health and Biology on the pre-medical track. I am excited to gain hands-on research experience in the SWEET Lab. I am particularly passionate about research related to Parkinson’s disease, as it has personally affected people close to me, and I hope to contribute to work that advances understanding, treatment, and quality of life for individuals living with neurological disorders.
 
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/studentdonut.jpg"
+  image="images/LL.jpg"
   link=""
   title="Lillian Linnell"
   flip=true
