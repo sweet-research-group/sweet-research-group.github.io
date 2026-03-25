@@ -22,10 +22,10 @@ Rui Hua, Yiyu Wang, Deanna M. Kennedy, James E. Hubbard Jr., and Ya Wang, **“T
 
 ## Journal Publications
 
-Almuteb, I., Hua, R., Emad-Ud-Din, M., Vanegas-Arroyave, N., Wang, Y., **“Heel-tapping-based Parkinson’s Disease Stage Classification using Smart Insoles”**, IEEE Transactions on Neural Systems and Rehabilitation Engineering (_under review_)
+Almuteb, I., Hua, R., Emad-Ud-Din, M., Vanegas-Arroyave, N., Wang, Y., **“Heel-tapping-based Parkinson’s Disease Stage Classification using Smart Insoles”**, IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2026
 
 
-Carter, M.+, Hua, R.+, O’Brien, M. K., Pitt, B. J., Kwon, S., Chen, A., Edobor, A., Manworren, R. C. B., Jayaraman, A., Ghomrawi, H. MK, and Abdullah, F., **“Circadian Rhythms as Digital Biomarkers of Postoperative Recovery and Complications in Children”**. Digital Health (_under review_)
+Carter, M.+, Hua, R.+, O’Brien, M. K., Pitt, B. J., Kwon, S., Chen, A., Edobor, A., Manworren, R. C. B., Jayaraman, A., Ghomrawi, H. MK, and Abdullah, F., **“Rest-activity Rhythms as Digital Biomarkers of Postoperative Recovery and Complications in Children”**. Digital Health (_under review_)
 
 
 Hua, R.+, Carter, M.+, O’Brien, M. K., Pitt, B. J., Kwon, S., Oscherwitz, G., Chen, A., Edobor, A., Manworren, R. C. B., Ghomrawi, H. MK, Abdullah, F., and Jayaraman, A., **“Biorhythm Changes Derived from Wearable Fitness Trackers Predict Postoperative Complications in Children”**, Science Advances, 11, eadv2643.DOI:10.1126/sciadv.adv2643, 2025
@@ -43,7 +43,7 @@ Pitt, B., Carter, M., Zeineddin, S., Bai, I., Hua, R., Kwon, S., Ghomrawi, H. MK
 Carter, M.+, Hua, R.+, O’Brien, M. K., Pitt, B.J., Kwon, S., Jayaraman, A., Ghomrawi, H. MK, and Abdullah, F., **“Autocorrelation of daily resting heart rate: A novel metric of postoperative recovery”**, International Journal of Medical Informatics, 105655, 2024
 
 
-Almuteb, I., Hua, R., and Wang, Y., **"Stage-Wise Data Balancing Promoting Toe-tapping-based Classification of Parkinson's Disease Progression using Smart Insoles"**, BMC Medical Informatics and Decision Making (_preprint available, 2nd revision under review_)
+Almuteb, I., Hua, R., and Wang, Y., **"Stage-Wise Data Balancing Promoting Toe-tapping-based Classification of Parkinson's Disease Progression using Smart Insoles"**, _preprint available_
 
 
 Carter, M., Hua, R., Pitt, B. J., Zeineddin, S., Perez, A., Sands, L., MS, Kujawa, S., LeHane, A., Stake, C., Reynolds, M., Abdullah, F., and Goldstein, S. D., **“Utility of White Light Scanning as an alternative to computed tomography to evaluate severity of pectus excavatum deformity”**, Journal of Pediatric Surgery, 2024

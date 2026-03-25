@@ -11,7 +11,13 @@ _My course often invites people from industry and academia whose work is related
 
 {% include section.html %}
 
-## Spring 2026 Undergraduate Course
+
+## Fall 2026
+**CSE 012-011** -- _Introduction to Programming with Python_
+**BSTA 375** -- _Analyzing Sensor Data_
+
+
+## Spring 2026
 **CSE 012-011** -- _Introduction to Programming with Python_
 
 
@@ -21,7 +27,7 @@ Guests:
 - **Richa Rai, PhD**, Postdoctoral Research Fellow, Shirley Ryan AbilityLab/Northwestern University, _"Finding Patterns in People: Using Data and Python to Understand Human Behavior"_
 
 
-## Fall 2025 Undergraduate Course
+## Fall 2025
 **CSE 012-011** -- _Introduction to Programming with Python_
 
 
