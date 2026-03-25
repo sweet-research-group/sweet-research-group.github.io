@@ -13,7 +13,7 @@ nav:
 
 {% capture text %}
 
-I am an assistant professor in the Department of Biostatistics and Health Data Science in the College of Health, with affiliations at Department of Electrical and Computer Engineering and Center for Community-Driven Assistive Technologies at Lehigh University. I am passionate about wearable technologies for health. The vision for my research program is to design smart wearable electronics and develop machine learning algorithms and frameworks, and translate them into wearable and AI-powered digital health solutions for neurorehabilitation and remote patient monitoring. 
+I am an assistant professor in the Department of Biostatistics and Health Data Science in the College of Health, with affiliations at Department of Electrical and Computer Engineering, Center for Community-Driven Assistive Technologies  and Institute for Data, Intelligent Systems, and Computation at Lehigh University. I am passionate about wearable technologies for health. The vision for my research program is to develop full-stack wearable systems integrated with clinical insights, covering electronics, firmware, data and AI to provide end-to-end wearable and AI-powered digital health solutions for neurorehabilitation and remote patient monitoring. 
 
 {%
   include button.html
@@ -36,7 +36,7 @@ I am an assistant professor in the Department of Biostatistics and Health Data S
 
 
 
-## Physical/Occupational Therapists
+## Collaborated Physical/Occupational Therapists
 {% capture text %}
 
 Occupational Threpist at Good Shepherd Rehabilitation Networks
