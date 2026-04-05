@@ -5,9 +5,10 @@ nav:
   tooltip: Recuiting
 ---
 
+
 # Open Positions
 
-_Open positions are listed in below. Besides the open positions, our group always looks for movitated students to join us. We welcome students who are looking for opportunities to explore research interest or gain research experiences._ _Reach out to Prof. Rui Hua (_**_ruh725@lehigh.edu_**_) for any opportunities._ 
+_Open positions are listed in below._ 
 
 
 {% include section.html %}
@@ -45,6 +46,22 @@ The PhD student will work on research of wearable and AI-powered digital health 
 - Knowledge and experience in embedded systems, microcontrollers, circuits and PCBs. 
 -	Prior research experience in using sensing equipment such as Force Plates, Delsys, GAITRite, Optical Motion Capture. 
 -	Prior research experience in the applications of wearables in health, such as gait analysis, human movement analysis. 
+
+
+
+
+# Oppotunities to Get Engaged: 
+_Besides the open positions, our group always looks for curious, movitated and proactive students to join us._ 
+
+
+{% include section.html %}
+
+
+- _**Students at Lehigh University**, who are interested in our research and looking for opportunities such as work-study for lab-related jobs, independent study credits to work on research projects, are welcome to reach out to **Prof. Rui Hua (ruh725@lehigh.edu)** for any inquiries or possible opportunities._
+
+
+- _**Local high school students**, who are interested in exploring our research as a volunteer during summer time, are also welcome to reach out to **Prof. Rui Hua (ruh725@lehigh.edu)** for any possible opportunities._
+
 
 
 <!-- 
