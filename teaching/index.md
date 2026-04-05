@@ -14,10 +14,14 @@ _My course often invites people from industry and academia whose work is related
 
 ## Fall 2026
 **CSE 012-011** -- _Introduction to Programming with Python_
+
+
 Guests: TBD
 
 
 **BSTA 375** -- _Analyzing Sensor Data_
+
+
 Guests: TBD
 
 

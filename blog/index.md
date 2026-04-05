@@ -57,6 +57,7 @@ The PhD student will work on research of wearable and AI-powered digital health 
 
 _Besides the open positions, our group always looks for curious, movitated and proactive students to join us._ 
 
+
 - _**Students at Lehigh University**, who are interested in our research and looking for opportunities such as work-study for lab-related jobs, independent study credits to work on research projects, are welcome to reach out to **Prof. Rui Hua (ruh725@lehigh.edu)** for any inquiries or possible opportunities._
 
 
