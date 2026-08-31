@@ -36,7 +36,7 @@ I am an assistant professor in the Department of Biostatistics and Health Data S
 
 
 
-## Collaborating Physical/Occupational Therapists
+## Collaborating Clinicians
 {% capture text %}
 
 Occupational Threpist at Good Shepherd Rehabilitation Networks
