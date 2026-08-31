@@ -140,7 +140,7 @@ Joined lab in Fall 2025
   include feature.html
   image="images/CH.jpg"
   link=""
-  title="Callie Higgins'27"
+  title="Callie Higgins '27"
   flip=true
   style="bare"
   text=text
@@ -161,7 +161,7 @@ Joined lab in Fall 2025
   include feature.html
   image="images/studentdonut.jpg"
   link=""
-  title="Noelle Barone'27"
+  title="Noelle Barone '27"
   flip=true
   style="bare"
   text=text
@@ -182,7 +182,7 @@ Joined lab in Summer 2026
   include feature.html
   image="images/studentdonut.jpg"
   link=""
-  title="Corina Saenz Gutierrez'27"
+  title="Corina Saenz Gutierrez '27"
   flip=true
   style="bare"
   text=text
@@ -203,7 +203,7 @@ Joined lab in Fall 2026
   include feature.html
   image="images/studentdonut.jpg"
   link=""
-  title="Dylan Cunningham'27"
+  title="Dylan Cunningham '27"
   flip=true
   style="bare"
   text=text
@@ -224,7 +224,7 @@ Joined lab in Fall 2025
   include feature.html
   image="images/Alex.jpg"
   link=""
-  title="Alex Lien'28"
+  title="Alex Lien '28"
   flip=true
   style="bare"
   text=text
@@ -245,7 +245,7 @@ Joined lab in Fall 2025
   include feature.html
   image="images/studentdonut.jpg"
   link=""
-  title="Sophie Weiskopf'28"
+  title="Sophie Weiskopf '28"
   flip=true
   style="bare"
   text=text
@@ -266,7 +266,7 @@ Joined lab in Fall 2025
   include feature.html
   image="images/LL.jpg"
   link=""
-  title="Lillian Linnell'28"
+  title="Lillian Linnell '28"
   flip=true
   style="bare"
   text=text
@@ -286,7 +286,7 @@ Joined lab in Fall 2025
   include feature.html
   image="images/studentdonut.jpg"
   link=""
-  title="Liam Berryman'28"
+  title="Liam Berryman '28"
   flip=true
   style="bare"
   text=text
@@ -307,7 +307,7 @@ Joined lab in Fall 2026
   include feature.html
   image="images/studentdonut.jpg"
   link=""
-  title="Lila Butcher'28"
+  title="Lila Butcher '28"
   flip=true
   style="bare"
   text=text
@@ -329,7 +329,7 @@ Joined lab in Fall 2026
   include feature.html
   image="images/studentdonut.jpg"
   link=""
-  title="Helen Thorp'29"
+  title="Helen Thorp '29"
   flip=true
   style="bare"
   text=text
@@ -351,7 +351,7 @@ Joined lab in Fall 2026
   include feature.html
   image="images/studentdonut.jpg"
   link=""
-  title="Esther Lee'29"
+  title="Esther Lee '29"
   flip=true
   style="bare"
   text=text
@@ -386,5 +386,5 @@ Major in Computer Engineering and minor in Data Science and Music, P.C. Rossin C
 **Undergraduate Students**
 
 
-- Phillip Kim'29, with us from Fall 2025 to Summer 2026, Lehigh University, Research Topic: _"Understanding Effects of Virtual Reality on Gait using Electromyography Sensors"_ poster presentation at Research Expo Lehigh University, 2026
+- Phillip Kim '29, with us from Fall 2025 to Summer 2026, Lehigh University, Research Topic: _"Understanding Effects of Virtual Reality on Gait using Electromyography Sensors"_, poster presentation at Research Expo Lehigh University, 2026
 
