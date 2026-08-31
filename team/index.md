@@ -386,5 +386,5 @@ Major in Computer Engineering and minor in Data Science and Music, P.C. Rossin C
 **Undergraduate Students**
 
 
-- Phillip Kim'29, with us from Fall 2025 to Summer 2026, Lehigh University, _"Understanding Effects of Virtual Reality on Gait using Electromyography Sensors"_ poster presentation at Research Expo Lehigh University, 2026
+- Phillip Kim'29, with us from Fall 2025 to Summer 2026, Lehigh University, Research Topic: _"Understanding Effects of Virtual Reality on Gait using Electromyography Sensors"_ poster presentation at Research Expo Lehigh University, 2026
 
