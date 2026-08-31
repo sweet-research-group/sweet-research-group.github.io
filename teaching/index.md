@@ -16,10 +16,10 @@ _My course often invites people from industry and academia whose work is related
 **CSE 012-011** -- _Introduction to Programming with Python_
 
 
-Guests: TBD
+- Teaching Assistant: **Edward Lopez Tarazona** 
 
 
-**BSTA 375** -- _Analyzing Sensor Data_
+**BSTA 375** -- _Analyzing Health Sensor Data_
 
 
 Guests: TBD

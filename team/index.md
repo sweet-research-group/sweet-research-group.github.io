@@ -36,7 +36,7 @@ I am an assistant professor in the Department of Biostatistics and Health Data S
 
 
 
-## Collaborated Physical/Occupational Therapists
+## Collaborating Physical/Occupational Therapists
 {% capture text %}
 
 Occupational Threpist at Good Shepherd Rehabilitation Networks
@@ -61,6 +61,9 @@ Occupational Threpist at Good Shepherd Rehabilitation Networks
 {% capture text %}
 
 Major in Data Science, College of Engineering
+
+
+Joined lab in Spring 2026
  
 
 {% endcapture %}
@@ -80,6 +83,9 @@ Major in Data Science, College of Engineering
 {% capture text %}
 
 I am currently a graduate student in the Healthcare Systems Engineering (HSE) program. I have prior experience with Python and machine learning, and I am particularly interested in how wearable smart devices can be used to study and improve mobility in patients with Parkinson’s disease. 
+
+
+Joined lab in Spring 2026
  
 
 {% endcapture %}
@@ -96,6 +102,27 @@ I am currently a graduate student in the Healthcare Systems Engineering (HSE) pr
 
 
 
+{% capture text %}
+
+Major in Computer Engineering, College of Engineering.
+
+
+Joined lab in Fall 2026
+ 
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/studentdonut.jpg"
+  link=""
+  title="Daniel McEvoy"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+
 ## Undergraduate Students
 
 
@@ -103,7 +130,9 @@ I am currently a graduate student in the Healthcare Systems Engineering (HSE) pr
 
 I am pursuing a dual degree in Biostatistics and Population Health in the College of Health. I am passionate about leveraging data science, particularly machine learning, to improve the quality of life of people in vulnerable populations and advance public health. I am also excited to further explore digital health, as it uniquely integrates my interests in data/technology and health.
 
- 
+
+Joined lab in Fall 2025
+
 
 {% endcapture %}
 
@@ -111,7 +140,70 @@ I am pursuing a dual degree in Biostatistics and Population Health in the Colleg
   include feature.html
   image="images/CH.jpg"
   link=""
-  title="Callie Higgins"
+  title="Callie Higgins'27"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+
+{% capture text %}
+
+Major in Psychology, College of Arts & Sciences.
+
+
+Joined lab in Fall 2025
+
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/studentdonut.jpg"
+  link=""
+  title="Noelle Barone'27"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+
+{% capture text %}
+
+Major in Computer Engineering, College of Engineering.
+
+
+Joined lab in Summer 2026
+
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/studentdonut.jpg"
+  link=""
+  title="Corina Saenz Gutierrez'27"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+
+{% capture text %}
+
+Major in Computer Engineering, College of Engineering.
+ 
+
+Joined lab in Fall 2026
+
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/studentdonut.jpg"
+  link=""
+  title="Dylan Cunningham'27"
   flip=true
   style="bare"
   text=text
@@ -123,13 +215,58 @@ I am pursuing a dual degree in Biostatistics and Population Health in the Colleg
 My name is Alex Lien, and I am from Pittston, PA. I am on the pre-medical track, pursuing a dual degree in Biology and HMS. I am excited to work with the local population and other lab staff to help people with mobility issues.
  
 
+Joined lab in Fall 2025
+
+
 {% endcapture %}
 
 {%
   include feature.html
   image="images/Alex.jpg"
   link=""
-  title="Alex Lien"
+  title="Alex Lien'28"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+
+{% capture text %}
+
+Major in Community and Global Health, College of Health.
+
+
+Joined lab in Fall 2025
+
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/studentdonut.jpg"
+  link=""
+  title="Sophie Weiskopf'28"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+
+{% capture text %}
+
+I am an undergraduate majoring in Population Health and Biology on the pre-medical track. I am excited to gain hands-on research experience in the SWEET Lab. I am particularly passionate about research related to Parkinson’s disease, as it has personally affected people close to me, and I hope to contribute to work that advances understanding, treatment, and quality of life for individuals living with neurological disorders.
+
+
+Joined lab in Fall 2025
+
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/LL.jpg"
+  link=""
+  title="Lillian Linnell'28"
   flip=true
   style="bare"
   text=text
@@ -139,7 +276,9 @@ My name is Alex Lien, and I am from Pittston, PA. I am on the pre-medical track,
 {% capture text %}
 
 Major in Industrial and Systems Engineering and a minor in Computer Science, College of Engineering.
- 
+
+
+Joined lab in Fall 2025
 
 {% endcapture %}
 
@@ -147,7 +286,7 @@ Major in Industrial and Systems Engineering and a minor in Computer Science, Col
   include feature.html
   image="images/studentdonut.jpg"
   link=""
-  title="Liam Berryman"
+  title="Liam Berryman'28"
   flip=true
   style="bare"
   text=text
@@ -156,27 +295,11 @@ Major in Industrial and Systems Engineering and a minor in Computer Science, Col
 
 {% capture text %}
 
-I am a student in Lehigh University's College of Health. My past research has included modeling the relationship between climate change and Lyme Disease. I'm excited to gain exposure to research in the clinical settings through working with the Smart Wearable Electronics and hEalth daTa (SWEET) Research Group.
-
+Major in Bioengineering, College of Engineering.
  
 
-{% endcapture %}
+Joined lab in Fall 2026
 
-{%
-  include feature.html
-  image="images/PK.jpg"
-  link=""
-  title="Phillip Kim"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-
-{% capture text %}
-
-Major in Psychology, College of Arts & Sciences.
- 
 
 {% endcapture %}
 
@@ -184,7 +307,7 @@ Major in Psychology, College of Arts & Sciences.
   include feature.html
   image="images/studentdonut.jpg"
   link=""
-  title="Noelle Barone"
+  title="Lila Butcher'28"
   flip=true
   style="bare"
   text=text
@@ -194,8 +317,11 @@ Major in Psychology, College of Arts & Sciences.
 
 {% capture text %}
 
-Major in Community and Global Health, College of Health.
- 
+Undecleared Major - pre-health track.
+
+
+Joined lab in Fall 2026
+
 
 {% endcapture %}
 
@@ -203,11 +329,34 @@ Major in Community and Global Health, College of Health.
   include feature.html
   image="images/studentdonut.jpg"
   link=""
-  title="Sophie Weiskopf"
+  title="Helen Thorp'29"
   flip=true
   style="bare"
   text=text
 %}
+
+
+
+{% capture text %}
+
+Major in Biostatistics and Health Data Science, College of Health.
+
+
+Joined lab in Fall 2026
+
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/studentdonut.jpg"
+  link=""
+  title="Esther Lee'29"
+  flip=true
+  style="bare"
+  text=text
+%}
+
 
 
 <!--
@@ -230,22 +379,12 @@ Major in Computer Engineering and minor in Data Science and Music, P.C. Rossin C
 -->
 
 
-{% capture text %}
 
-I am an undergraduate majoring in Population Health and Biology on the pre-medical track. I am excited to gain hands-on research experience in the SWEET Lab. I am particularly passionate about research related to Parkinson’s disease, as it has personally affected people close to me, and I hope to contribute to work that advances understanding, treatment, and quality of life for individuals living with neurological disorders.
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/LL.jpg"
-  link=""
-  title="Lillian Linnell"
-  flip=true
-  style="bare"
-  text=text
-%}
+## Lab Alumni
 
 
+**Undergraduate Students**
 
+
+- Phillip Kim'29, with us from Fall 2025 to Summer 2026, Lehigh University, _"Understanding Effects of Virtual Reality on Gait using Electromyography Sensors"_ poster presentation at Research Expo Lehigh University, 2026
 

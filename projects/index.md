@@ -45,6 +45,8 @@ Remote patient monitoring offers clinicians the full picture of their patients i
 %}
 
 
+
+<!-- 
 {% capture text %}
 
 Uncertainty in wearable data has been a critical challenge in developing reliable AI for wearables. The uncertainty—stemming from limited sample sizes, missing data and ground truth in uncontrolled environments such as community settings, or ambiguity in data labeling often encountered in clinical questions—often undermines the robustness and generalizability of AI models. Our group aims to tackle these challenges by developing and applying different learning strategies to enhance the AI training process and improve performance when AI is being deployed.
@@ -58,5 +60,23 @@ Uncertainty in wearable data has been a critical challenge in developing reliabl
   title="Learning Strategies to Build Robust AI using Health Sensor Data"
   flip=true
   style="bare"
+  text=text
+%}
+-->
+
+
+## Research Sponsorship
+
+{% capture text %}
+
+Our current research projects are sponsored by Center for Community-Driven Assistive Technologies (CDAT) at Lehigh University and Good Shepherd Rehabilitation Networks.
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/sponsorship 082026.jpg"
+  link=""
+  title="Sponsors"
   text=text
 %}

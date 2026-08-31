@@ -13,6 +13,10 @@ _Open positions are listed in below._
 
 {% include section.html %}
 
+
+## none
+
+<!-- 
 ## PhD Students
 
 _If you are interested in joining our group, please send an email with **your CV**, **list of courses related to the qualifications below**, and **a short paragraph about yur past research experience** and **why you’d like to join our research group** to Prof. Rui Hua (ruh725@lehigh.edu)._
@@ -46,7 +50,7 @@ The PhD student will work on research of wearable and AI-powered digital health 
 - Knowledge and experience in embedded systems, microcontrollers, circuits and PCBs. 
 -	Prior research experience in using sensing equipment such as Force Plates, Delsys, GAITRite, Optical Motion Capture. 
 -	Prior research experience in the applications of wearables in health, such as gait analysis, human movement analysis. 
-
+-->
 
 
 

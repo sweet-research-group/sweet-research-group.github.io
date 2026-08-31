@@ -22,15 +22,13 @@ Rui Hua, Yiyu Wang, Deanna M. Kennedy, James E. Hubbard Jr., and Ya Wang, **“T
 
 ## Journal Publications
 
+Carter, M.+, Hua, R.+, O’Brien, M. K., Pitt, B. J., Kwon, S., Chen, A., Edobor, A., Manworren, R. C. B., Jayaraman, A., Ghomrawi, H. MK, and Abdullah, F., **“Rest-activity Rhythms as Digital Biomarkers of Postoperative Recovery and Complications in Children”**. Digital Health 12, 20552076261453505, 2026 
+
+
+Matthew T. Flavin+, Yu-Ting Huang+, Dimitrios Simatos+, Rui Hua+, Shreya Aalla+, Jesse Cornman, Richa Rai, Jihun Park, Chinmay Bandapalli, Tara Saxena, Molly Henry, Jacob Trueb, Raden Schell, Sam A. Allahverdi, Fatimah Al-Najjar, Jae Young Yoo, Aadeel Akhtar, Arun Jayaraman*, John A. Rogers*, **"Scalable networks of multimodal haptic arrays for plantar sensory substitution"**, Proceedings of the National Academy of Sciences 123, no. 25: e2536577123, 2026
+
+
 Almuteb, I., Hua, R., Emad-Ud-Din, M., Vanegas-Arroyave, N., Wang, Y., **“Heel-tapping-based Parkinson’s Disease Stage Classification using Smart Insoles”**, IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2026
-
-
-Carter, M.+, Hua, R.+, O’Brien, M. K., Pitt, B. J., Kwon, S., Chen, A., Edobor, A., Manworren, R. C. B., Jayaraman, A., Ghomrawi, H. MK, and Abdullah, F., **“Rest-activity Rhythms as Digital Biomarkers of Postoperative Recovery and Complications in Children”**. Digital Health (_under review_)
-
-
-<!--
-Matthew T. Flavin+, Yu-Ting Huang+, Dimitrios Simatos+, Rui Hua+, Shreya Aalla+, Jesse Cornman, Richa Rai, Jihun Park, Chinmay Bandapalli, Tara Saxena, Molly Henry, Jacob Trueb, Raden Schell, Sam A. Allahverdi, Fatimah Al-Najjar, Jae Young Yoo, Aadeel Akhtar, Arun Jayaraman*, John A. Rogers*, **"Scalable networks of multimodal haptic arrays for plantar sensory substitution"**, Proceedings of the National Academy of Sciences of the United States of America (_under review_)
--->
 
 
 Hua, R.+, Carter, M.+, O’Brien, M. K., Pitt, B. J., Kwon, S., Oscherwitz, G., Chen, A., Edobor, A., Manworren, R. C. B., Ghomrawi, H. MK, Abdullah, F., and Jayaraman, A., **“Biorhythm Changes Derived from Wearable Fitness Trackers Predict Postoperative Complications in Children”**, Science Advances, 11, eadv2643.DOI:10.1126/sciadv.adv2643, 2025
