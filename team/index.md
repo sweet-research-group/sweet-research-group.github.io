@@ -73,7 +73,7 @@ Joined lab since Spring 2026
 
 {%
   include feature.html
-  image="images/studentdonut.jpg"
+  image="images/Superhero.jpg"
   link=""
   title = "Thoi Quach"
   flip=true
@@ -165,7 +165,7 @@ Joined lab since Fall 2025
 
 {%
   include feature.html
-  image="images/studentdonut.jpg"
+  image="images/engagement.jpg"
   link=""
   title="Noelle Barone '27"
   flip=true
@@ -300,7 +300,7 @@ Joined lab since Fall 2025
 
 {%
   include feature.html
-  image="images/studentdonut.jpg"
+  image="images/AIpioneer.jpg"
   link=""
   title="Liam Berryman '28"
   flip=true
