@@ -39,7 +39,7 @@ I am an assistant professor in the Department of Biostatistics and Health Data S
 ## Collaborating Clinicians
 {% capture text %}
 
-Occupational Threpist at Good Shepherd Rehabilitation Networks
+Occupational Therapist at Good Shepherd Rehabilitation Networks
  
 
 {% endcapture %}
@@ -63,7 +63,10 @@ Occupational Threpist at Good Shepherd Rehabilitation Networks
 Major in Data Science, College of Engineering
 
 
-Joined lab in Spring 2026
+Chair of Technologies (Superhero), Lab Committee
+
+
+Joined lab since Spring 2026
  
 
 {% endcapture %}
@@ -85,7 +88,7 @@ Joined lab in Spring 2026
 I am currently a graduate student in the Healthcare Systems Engineering (HSE) program. I have prior experience with Python and machine learning, and I am particularly interested in how wearable smart devices can be used to study and improve mobility in patients with Parkinson’s disease. 
 
 
-Joined lab in Spring 2026
+Joined lab since Spring 2026
  
 
 {% endcapture %}
@@ -107,7 +110,7 @@ Joined lab in Spring 2026
 Major in Computer Engineering, College of Engineering.
 
 
-Joined lab in Fall 2026
+Joined lab since Fall 2026
  
 
 {% endcapture %}
@@ -131,7 +134,7 @@ Joined lab in Fall 2026
 I am pursuing a dual degree in Biostatistics and Population Health in the College of Health. I am passionate about leveraging data science, particularly machine learning, to improve the quality of life of people in vulnerable populations and advance public health. I am also excited to further explore digital health, as it uniquely integrates my interests in data/technology and health.
 
 
-Joined lab in Fall 2025
+Joined lab since Fall 2025
 
 
 {% endcapture %}
@@ -152,7 +155,10 @@ Joined lab in Fall 2025
 Major in Psychology, College of Arts & Sciences.
 
 
-Joined lab in Fall 2025
+Chair of Events (Research Engagement Ambassador), Lab Committee
+
+
+Joined lab since Fall 2025
 
 
 {% endcapture %}
@@ -173,7 +179,7 @@ Joined lab in Fall 2025
 Major in Computer Engineering, College of Engineering.
 
 
-Joined lab in Summer 2026
+Joined lab since Summer 2026
 
 
 {% endcapture %}
@@ -194,7 +200,7 @@ Joined lab in Summer 2026
 Major in Computer Engineering, College of Engineering.
  
 
-Joined lab in Fall 2026
+Joined lab since Fall 2026
 
 
 {% endcapture %}
@@ -215,7 +221,10 @@ Joined lab in Fall 2026
 My name is Alex Lien, and I am from Pittston, PA. I am on the pre-medical track, pursuing a dual degree in Biology and HMS. I am excited to work with the local population and other lab staff to help people with mobility issues.
  
 
-Joined lab in Fall 2025
+Chair of Student Development | Lab Committee
+
+
+Joined lab since Fall 2025
 
 
 {% endcapture %}
@@ -236,7 +245,7 @@ Joined lab in Fall 2025
 Major in Community and Global Health, College of Health.
 
 
-Joined lab in Fall 2025
+Joined lab since Fall 2025
 
 
 {% endcapture %}
@@ -257,7 +266,10 @@ Joined lab in Fall 2025
 I am an undergraduate majoring in Population Health and Biology on the pre-medical track. I am excited to gain hands-on research experience in the SWEET Lab. I am particularly passionate about research related to Parkinson’s disease, as it has personally affected people close to me, and I hope to contribute to work that advances understanding, treatment, and quality of life for individuals living with neurological disorders.
 
 
-Joined lab in Fall 2025
+DJ "L.L.Beats" in the Lab
+
+
+Joined lab since Fall 2025
 
 
 {% endcapture %}
@@ -278,7 +290,11 @@ Joined lab in Fall 2025
 Major in Industrial and Systems Engineering and a minor in Computer Science, College of Engineering.
 
 
-Joined lab in Fall 2025
+AI Pioneer in the Lab
+
+
+Joined lab since Fall 2025
+
 
 {% endcapture %}
 
@@ -295,10 +311,13 @@ Joined lab in Fall 2025
 
 {% capture text %}
 
-Major in Bioengineering, College of Engineering.
- 
+Major in Bioengineering, College of Engineering
 
-Joined lab in Fall 2026
+
+Diary "Queen" in the Lab
+
+
+Joined lab since Fall 2026
 
 
 {% endcapture %}
@@ -320,7 +339,7 @@ Joined lab in Fall 2026
 Undecleared Major - pre-health track.
 
 
-Joined lab in Fall 2026
+Joined lab since Fall 2026
 
 
 {% endcapture %}
@@ -342,7 +361,7 @@ Joined lab in Fall 2026
 Major in Biostatistics and Health Data Science, College of Health.
 
 
-Joined lab in Fall 2026
+Joined lab since Fall 2026
 
 
 {% endcapture %}
@@ -386,5 +405,5 @@ Major in Computer Engineering and minor in Data Science and Music, P.C. Rossin C
 **Undergraduate Students**
 
 
-- Phillip Kim '29, with us from Fall 2025 to Summer 2026, Lehigh University, Research Topic: _"Understanding Effects of Virtual Reality on Gait using Electromyography Sensors"_, poster presentation at Research Expo Lehigh University, 2026
+- Phillip Kim '29, Lehigh University, with us from Fall 2025 to Summer 2026, Research Topic: _"Understanding Effects of Virtual Reality on Gait using Electromyography Sensors"_, poster presentation at Research Expo Lehigh University, 2026
 
