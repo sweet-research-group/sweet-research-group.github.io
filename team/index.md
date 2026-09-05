@@ -221,7 +221,7 @@ Joined lab since Fall 2026
 My name is Alex Lien, and I am from Pittston, PA. I am on the pre-medical track, pursuing a dual degree in Biology and HMS. I am excited to work with the local population and other lab staff to help people with mobility issues.
  
 
-Chair of Student Development | Lab Committee
+Chair of Student Development, Lab Committee
 
 
 Joined lab since Fall 2025
@@ -324,7 +324,7 @@ Joined lab since Fall 2026
 
 {%
   include feature.html
-  image="images/studentdonut.jpg"
+  image="images/diary.jpg"
   link=""
   title="Lila Butcher '28"
   flip=true
