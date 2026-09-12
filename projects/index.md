@@ -7,7 +7,7 @@ nav:
 
 # Research
 
-_Our ongoing research projects focus on developing wearable and AI-powered digital health solutions in neurorehabilitation (gait) and remote patient monitoring for Parkinson's disease._
+_Our ongoing research focuses on developing wearable and AI-powered digital health solutions in neurorehabilitation (gait) and remote patient monitoring._
 
 {% include section.html %}
 
