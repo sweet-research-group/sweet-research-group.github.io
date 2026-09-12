@@ -74,7 +74,7 @@ Uncertainty in wearable data has been a critical challenge in developing reliabl
 
 {% capture text %}
 
-Our current research projects are sponsored by Center for Community-Driven Assistive Technologies (CDAT) at Lehigh University and Good Shepherd Rehabilitation Networks.
+Our current research projects are sponsored by Center for Community-Driven Assistive Technologies (CDAT) at Lehigh University and Good Shepherd Rehabilitation Network.
 
 {% endcapture %}
 

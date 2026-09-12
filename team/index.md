@@ -42,7 +42,7 @@ I am passionate about wearable technologies for health. My past and current rese
 ## Collaborating Clinicians
 {% capture text %}
 
-Occupational Therapist at Good Shepherd Rehabilitation Networks
+Occupational Therapist at Good Shepherd Rehabilitation Network
  
 
 {% endcapture %}
