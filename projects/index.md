@@ -10,7 +10,7 @@ nav:
 _Our research mainly focuses on developing wearable and AI-powered digital health solutions in neurorehabilitation (gait) and remote patient monitoring for Parkinson's disease._
 
 
-_As collaborators, we also have collaboraive and explortary research working with individuals with Lumbar Spinal Stenosis and stroke survivors._
+_As collaborators, we also have collaborative and explortary research working with individuals with Lumbar Spinal Stenosis and stroke survivors._
 
 {% include section.html %}
 
