@@ -13,7 +13,10 @@ nav:
 
 {% capture text %}
 
-I am an assistant professor in the Department of Biostatistics and Health Data Science in the College of Health, with affiliations at Department of Electrical and Computer Engineering, Center for Community-Driven Assistive Technologies  and Institute for Data, Intelligent Systems, and Computation at Lehigh University. I am passionate about wearable technologies for health. My past and current research primarily works with individuals with Parkinson's disease. The vision for my research program is to develop full-stack wearable systems integrated with clinical insights, covering electronics, firmware, data and AI to provide end-to-end wearable and AI-powered digital health solutions for neurorehabilitation and remote patient monitoring. 
+I am an assistant professor in the Department of Biostatistics and Health Data Science in the College of Health, with affiliations at Department of Electrical and Computer Engineering in the College of Engineering, Center for Community-Driven Assistive Technologies (CDAT) and Institute for Data, AI, Society, and Computation (I-DISC) at Lehigh University. 
+
+
+I am passionate about wearable technologies for health. My past and current research primarily works with individuals with Parkinson's disease. The vision for my research program is to develop full-stack wearable systems integrated with clinical insights, covering electronics, signal processing, data analysis and AI to provide end-to-end wearable and AI-powered digital health solutions for neurorehabilitation and remote patient monitoring. 
 
 {%
   include button.html
