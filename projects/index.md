@@ -7,7 +7,7 @@ nav:
 
 # Research
 
-_Our research mainly focuses on developing wearable and AI-powered digital health solutions in neurorehabilitation (gait) and remote patient monitoring for Parkinson's disease._
+_Our research focuses on developing wearable and AI-powered digital health solutions in neurorehabilitation (gait) and remote patient monitoring for Parkinson's disease._
 
 
 _As collaborators, we also have collaborative and exploratory research working with individuals with Lumbar Spinal Stenosis and stroke survivors._
@@ -18,7 +18,11 @@ _As collaborators, we also have collaborative and exploratory research working w
 
 {% capture text %}
 
+Individuals with neurological disorders may often exhibit gait deficits, such as impairment. Assessing gait with objective measurements is critical to discovering subtle deficits and creating new interventions to improve clinical/functional outcomes, promote natural gait, as well as reduce any overuse injuries, pain, and fall risk. Our group works on designing smart wearable devices equipped with customized, real-time on-device machine learning to measure gait deficits and provide real-time feedback in different forms, enabling human-in-the-loop interaction to support continuous adaptation and improvement. 
+
+<!--
 Individuals with neurological disorders often exhibit abnormal gait and poor balance due to factors such as muscle weakness, spasticity, deformities, or self-developed compensatory movements. Detecting and correcting these compensations in real time is critical to improving clinical outcomes, promoting natural gait, reducing overuse injuries, pain, and fall risk. Our group works on designing smart wearable devices equipped with customized, real-time on-device machine learning to detect compensatory movements and provide real-time cueing or stimuli, enabling human-in-the-loop interaction to support continuous adaptation and improvement. 
+-->
 
 {% endcapture %}
 
