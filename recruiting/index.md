@@ -7,6 +7,6 @@ nav:
 
 # Active Studies: Enrolling Participants
 
-To be announced... 
+Coming soon...
 
 
