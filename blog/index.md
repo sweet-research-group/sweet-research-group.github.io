@@ -14,7 +14,25 @@ _Open positions are listed in below._
 {% include section.html %}
 
 
-## To Be Announced
+## MS Students
+
+_If you are interested in joining our group, please send an email with **your CV**, **list of courses related to the qualifications below**, and **a short paragraph about yur past research experience** and **why you’d like to join our research group** to Prof. Rui Hua (ruh725@lehigh.edu)._
+
+
+**Description -> Studying Gait with Sensor Data Analysis and Machine Learning**
+Our group is looking for MS students (majoring in electrical computer engineering, computer science engineering, data science, or related majors) at Lehigh University to join our research of wearable and AI-powered digital health solutions and work on a project of Building End-to-end Data Pipelines and Machine Learning Frameworks for Gait Analysis. 
+
+**Example Work** 
+-	Program in Python.
+- Organize data set. 
+- Work on sensor data processing, analysis, multimodal data modeling and machine learning/deep learning. 
+-	If interested, participate in recruitment and data collection in the community and in the clinicals. 
+-	Opportunities to present a poster and co-author manuscripts for publications. 
+
+**To Engage through**
+- Research credits
+- Master Thesis
+
 
 <!-- 
 ## PhD Students
