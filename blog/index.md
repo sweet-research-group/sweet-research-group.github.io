@@ -8,16 +8,18 @@ nav:
 
 # Open Positions
 
+
 _Open positions are listed in below._ 
+
+
+_We always look for curious, motivaed and proactive students to join our research group._ _Students who only look for casual resume building should look at somewhere else._
+
 
 
 {% include section.html %}
 
 
-## MS Students
-
-_If you are interested in joining our group, please send an email with **your CV**, **list of courses related to the qualifications below**, and **a short paragraph about yur past research experience** and **why you’d like to join our research group** to Prof. Rui Hua (ruh725@lehigh.edu)._
-
+## MS Students at Lehigh University
 
 **Description -> Studying Gait with Sensor Data Analysis and Machine Learning**
 Our group is looking for MS students (majoring in electrical computer engineering, computer science engineering, data science, or related majors) at Lehigh University to join our research of wearable and AI-powered digital health solutions and work on a project of Building End-to-end Data Pipelines and Machine Learning Frameworks for Gait Analysis. 
@@ -33,6 +35,16 @@ Our group is looking for MS students (majoring in electrical computer engineerin
 - Research credits
 - Master Thesis
 
+
+## Undergraduate Students at Lehigh University
+
+We offer undergraduate students opportunities to join our research. Those who are interested in our research and looking for opportunities such as work-study for lab-related jobs, independent study credits to work on research projects, are welcome to reach out to **Prof. Rui Hua (ruh725@lehigh.edu)** for any inquiries or possible opportunities._
+
+
+
+## Local High School Scholars
+
+We offer summer research opportunities to local high school scholars who wanted to explore and gain research experiences as volunteers. Those who are interested in exploring our research as a volunteer during summer time, are also welcome to reach out to **Prof. Rui Hua (ruh725@lehigh.edu)** for any possible opportunities._
 
 <!-- 
 ## PhD Students
@@ -74,19 +86,6 @@ The PhD student will work on research of wearable and AI-powered digital health 
 
 {% include section.html %}
 
-
-## Oppotunities to Get Engaged: 
-
-_Besides the open positions, our group always looks for curious, movitated and proactive students to explore our research and join us._ 
-
-
-_**Note**: students who only look for casual resume building should look at somewhere else._
-
-
-- _**Students at Lehigh University**, who are interested in our research and looking for opportunities such as work-study for lab-related jobs, independent study credits to work on research projects, are welcome to reach out to **Prof. Rui Hua (ruh725@lehigh.edu)** for any inquiries or possible opportunities._
-
-
-- _**Local high school students**, who are interested in exploring our research as a volunteer during summer time, are also welcome to reach out to **Prof. Rui Hua (ruh725@lehigh.edu)** for any possible opportunities._
 
 
 
