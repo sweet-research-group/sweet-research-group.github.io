@@ -9,10 +9,10 @@ nav:
 # Open Positions
 
 
-_Open positions are listed in below._ 
+_We always look for curious, motivaed and proactive students to join our research group._ 
 
 
-_We always look for curious, motivaed and proactive students to join our research group._ _Students who only look for casual resume building should look at somewhere else._
+_Students who only look for casual resume building should look at somewhere else._
 
 
 
@@ -20,6 +20,7 @@ _We always look for curious, motivaed and proactive students to join our researc
 
 
 ## MS Students at Lehigh University
+
 
 **Description -> Studying Gait with Sensor Data Analysis and Machine Learning**
 Our group is looking for MS students (majoring in electrical computer engineering, computer science engineering, data science, or related majors) at Lehigh University to join our research of wearable and AI-powered digital health solutions and work on a project of Building End-to-end Data Pipelines and Machine Learning Frameworks for Gait Analysis. 
@@ -38,13 +39,13 @@ Our group is looking for MS students (majoring in electrical computer engineerin
 
 ## Undergraduate Students at Lehigh University
 
-We offer undergraduate students opportunities to join our research. Those who are interested in our research and looking for opportunities such as work-study for lab-related jobs, independent study credits to work on research projects, are welcome to reach out to **Prof. Rui Hua (ruh725@lehigh.edu)** for any inquiries or possible opportunities._
+We offer undergraduate students opportunities to join our research. Those who are interested in our research and looking for opportunities such as work-study for lab-related jobs, independent study credits to work on research projects, are welcome to reach out to **Prof. Rui Hua (ruh725@lehigh.edu)** for any inquiries or possible opportunities.
 
 
 
 ## Local High School Scholars
 
-We offer summer research opportunities to local high school scholars who wanted to explore and gain research experiences as volunteers. Those who are interested in exploring our research as a volunteer during summer time, are also welcome to reach out to **Prof. Rui Hua (ruh725@lehigh.edu)** for any possible opportunities._
+We offer summer research opportunities to local high school scholars who wanted to explore and gain research experiences as volunteers. Those who are interested in exploring our research as a volunteer during summer time, are also welcome to reach out to **Prof. Rui Hua (ruh725@lehigh.edu)** for any possible opportunities.
 
 <!-- 
 ## PhD Students
