@@ -23,7 +23,7 @@ _Students who only look for casual resume building should look at somewhere else
 
 
 **Description -> Studying Gait with Sensor Data Analysis and Machine Learning**
-Our group is looking for MS students (majoring in electrical computer engineering, computer science engineering, data science, or related majors) at Lehigh University to join our research of wearable and AI-powered digital health solutions and work on a project of Building End-to-end Data Pipelines and Machine Learning Frameworks for Gait Analysis. 
+- Our group is looking for MS students (majoring in electrical computer engineering, computer science engineering, data science, or related majors) at Lehigh University to join our research of wearable and AI-powered digital health solutions and work on a project of Building End-to-end Data Pipelines and Machine Learning Frameworks for Gait Analysis. 
 
 **Example Work** 
 -	Program in Python.
